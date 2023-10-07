@@ -1,9 +1,37 @@
-contact {
-    width: 400px;
-    height: 300px;
-    margin: auto;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+ padding: 10px 60px;
+ border: none;
+ background-color: aqua;
+ margin-top: 20px;
+ box-shadow: 0px 0px 10px rgb(0, 255, 136);
+ color: white;
+}
+p{
+    margin-top: 10px;
+    font-size: 25px;
+}
+button{
+    padding: 10px 60px;
+    border: none;
+    background-color: red;
     margin-top: 20px;
+    box-shadow: 0px 0px 10px rgb(255, 0, 234);
+    color: white;
 }
-contact.form {
-    transform: translateY(50PX);
+
+
+
+/* .container{
+    width: 100%;
+    height: 100vh;
+    text-align: center;l
 }
+h1 {
+    font-size: 150px;
+    padding-top: 200px;
+} */
