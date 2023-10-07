@@ -1,0 +1,9 @@
+contact {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+}
+contact.form {
+    transform: translateY(50PX);
+}
